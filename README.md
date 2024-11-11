@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Fabricio Schneiderbauer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src="https://media4.giphy.com/media/vs5y14mkgmZOVukgmE/giphy.webp" width="50px"></picture> About Me
+## <picture><img src="https://media.giphy.com/media/vs5y14mkgmZOVukgmE/giphy.gif" width="50" alt="GIF example"></picture> About Me
+
+
 
 <img align="right" width="250px" height="200px" alt="Github" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.webp" />
 
