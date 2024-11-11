@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Fabricio Schneiderbauer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFycjdobzgwcXRtODhwOXFvNDJ2N3Q5dnF6b2R1d3V3ZjhrMW5qayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vACLXgansDXwHzzI/giphy.webp" width = 50px></picture> About Me
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NoMjkwcjVuNzdqOXRhMDN2ZzZsZGw1cjRlM2x2M2V4ZWQ2OXlyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs5y14mkgmZOVukgmE/giphy.webp" width = 50px></picture> About Me
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndnem9neHY4dzM0dm1ld3p1NmU4dndoM2k5cWdhbDJoNTBvejEyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" />
 
