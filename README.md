@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Fabricio Schneiderbauer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NoMjkwcjVuNzdqOXRhMDN2ZzZsZGw1cjRlM2x2M2V4ZWQ2OXlyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs5y14mkgmZOVukgmE/giphy.webp" width = 50px></picture> About Me
+## <picture><img src = "https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEyODg1NDAsIm5iZiI6MTczMTI4ODI0MCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTExVDAxMjQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5YjVlNDU5ZjBiNWU2MGI4ZDZhMGM1ZDRiOGJlZGQzODg1ZTBmMmRmNDhkMmM3NTJmYzc5YzZjZGNkY2UxMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NvO7qOUbq7LApFvMG-VEA0Tv3tgpyi299Pz7AHynhDE" width = 50px></picture> About Me
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndnem9neHY4dzM0dm1ld3p1NmU4dndoM2k5cWdhbDJoNTBvejEyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" />
 
